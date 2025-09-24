@@ -1,0 +1,13 @@
+div{
+    width: 200px;
+    margin: 25px auto;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20;
+    background-color: beige;
+}
